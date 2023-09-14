@@ -1,0 +1,3 @@
+masterben;Regular Fries;70;33
+masterben;Biriani;150;34
+masterben;Egg Menu;250;35

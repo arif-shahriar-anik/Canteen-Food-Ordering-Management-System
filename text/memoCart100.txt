@@ -1,0 +1,3 @@
+masterben;Regular Fries;70;61
+masterben;Egg Menu;250;62
+masterben;7-UP;20;63

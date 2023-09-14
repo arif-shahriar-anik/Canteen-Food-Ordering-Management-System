@@ -1,0 +1,3 @@
+tahaniaislam;Samucha;75;55
+tahaniaislam;Regular Fries;70;56
+tahaniaislam;Cold Coffee;120;57

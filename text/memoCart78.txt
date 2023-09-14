@@ -1,0 +1,2 @@
+sohanuddin;Burger Large;250;34
+sohanuddin;Cold Coffee;60;35

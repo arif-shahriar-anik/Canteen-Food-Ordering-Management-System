@@ -1,0 +1,4 @@
+arefinshawon;Regular Fries;70;40
+arefinshawon;Chicken Cheese Delight;240;41
+arefinshawon;Regular Fries;70;42
+arefinshawon;Burger Large;250;43
